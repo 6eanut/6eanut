@@ -1,5 +1,3 @@
-# Jiakai Xu
-
 Interested in RISC-V, system software, and anything interesting.
 
 ### Open-source contributions
